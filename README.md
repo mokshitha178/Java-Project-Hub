@@ -1,0 +1,1 @@
+This Java application invites players to guess a randomly selected number. Players have a limited number of attempts each round and receive feedback on whether their guesses are too high or too low. Track your score and choose to play multiple rounds to improve your performance.
